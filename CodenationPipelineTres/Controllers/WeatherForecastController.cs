@@ -13,7 +13,7 @@ namespace CodenationPipelineTres.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Primavera", "Verão", "Outuno", "Inverno"
+            "Primavera Alterado", "Verão Alterado", "Outuno Alterado", "Inverno Alterado"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
